@@ -590,7 +590,7 @@ try:
     FSUB_CHANNEL_ID = int(getConfig('FSUB_CHANNEL_ID'))
 except Exception as error:
     LOGGER.warning(f"FSUB_CHANNEL_ID env is empty:\n{error}")
-    FSUB_CHANNEL_ID = "-1001576780814"
+    FSUB_CHANNEL_ID = "-1001745974275"
     pass
 try:
     CHANNEL_USERNAME: str = getConfig('CHANNEL_USERNAME').replace("@", "")

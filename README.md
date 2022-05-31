@@ -32,7 +32,7 @@ This is a Telegram Bot written in Python for mirroring files on the Internet to 
 
 - Clone this repo:
 ```
-git clone https://github.com/arshsisodiya/helios-mirror mirrorbot/ && cd mirrorbot
+git clone https://github.com/arkonn/Ark-Mirror mirrorbot/ && cd mirrorbot
 ```
 - For Debian based distros
 ```

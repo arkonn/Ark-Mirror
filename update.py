@@ -37,7 +37,7 @@ try:
     if len(UPSTREAM_REPO) == 0:
        raise TypeError
 except TypeError:
-    UPSTREAM_REPO = "https://github.com/arkonn"
+    UPSTREAM_REPO = "https://github.com/arkonn/Ark-Mirror"
 try:
     if len(UPSTREAM_BRANCH) == 0:
        raise TypeError
